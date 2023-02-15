@@ -8,7 +8,7 @@
 
 ## Links and images
 
-[This sites Home](https://parker782001.github.io/IST-256-Wiki-Page/)
+[Wiki Site](https://parker782001.github.io/IST-256-Wiki-Page/)
 
 Preview Picture
 
