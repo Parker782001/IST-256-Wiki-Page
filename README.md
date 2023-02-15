@@ -12,4 +12,4 @@
 
 Preview Picture
 
-![image]()
+![image](https://github.com/Parker782001/IST-256-Wiki-Page/blob/main/Preview.png)
