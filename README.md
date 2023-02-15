@@ -12,4 +12,4 @@
 
 Preview Picture
 
-![image](https://github.com/Parker782001/IST-256-Wiki-Page/blob/main/Screenshot%202023-02-14%20110459.png)
+![image]()
